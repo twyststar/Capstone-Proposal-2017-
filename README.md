@@ -33,11 +33,11 @@ Capstone project proposal/blueprint, Epicodus 2017
 
 ### Tools
 
-_ I intend to build this using Ruby/Rails, backed by psql, and deploy on Heroku._
+_I intend to build this using Ruby/Rails, backed by psql, and deploy on Heroku._
 
-_ I will use the Words api, as it has syllable count available https://www.wordsapi.com/ _
+_I will use the Words api, as it has syllable count available https://www.wordsapi.com/ _
 
-_ I plan to style using scss and bootstrap_ 
+_I plan to style using scss and bootstrap_ 
 
 
 ### Stretch Goals
