@@ -35,7 +35,7 @@ Capstone project proposal/blueprint, Epicodus 2017
 
 _I intend to build this using Ruby/Rails, backed by psql, and deploy on Heroku._
 
-_I will use the Words api, as it has syllable count available https://www.wordsapi.com/ _
+_I will use the Words api, as it has syllable count available https://www.wordsapi.com/_
 
 _I plan to style using scss and bootstrap_ 
 
