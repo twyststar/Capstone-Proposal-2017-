@@ -3,9 +3,7 @@ Capstone project proposal/blueprint, Epicodus 2017
 
 ## Epicodus ends
 
- like new leaves 
- 
- on the web's winds
+ like new leaves on the web's winds
  
  let us make Hi Coo
 
