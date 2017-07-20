@@ -2,13 +2,19 @@
 Capstone project proposal/blueprint, Epicodus 2017
 
 ## Epicodus ends
- like new leaves on the web's winds
+
+ like new leaves 
+ 
+ on the web's winds
+ 
  let us make Hi Coo
 
 # Hi-Coo
 
 ## A Message Posting 
+
  An app for chatting with friends
+ 
  But only with haiku
 
 ### By: Starlynne Start
