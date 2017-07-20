@@ -11,7 +11,7 @@ Capstone project proposal/blueprint, Epicodus 2017
 
 # Hi-Coo
 
-## A Message Posting 
+ A Message Posting 
 
  An app for chatting with friends
  
