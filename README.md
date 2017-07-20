@@ -25,7 +25,7 @@ Capstone project proposal/blueprint, Epicodus 2017
 * _An app where you can post messages, validated to be haiku format_
   * _line by line, it must be 5 syllables, 7 syllables, 5 syllables._
 * _Original posts must be validated as haiku._ 
-* _Following comments or discussion may be in non haiku format, but will be limetted by length._
+* _Following comments or discussion may be in non haiku format, but will be limitted by length._
 * _Users can view all without log-in, but must sign in to post or comment_
 * _Database backed and deployed live_
 * _Include admin dashboard for oversight CRUD capabilities_ 
@@ -48,7 +48,7 @@ _I plan to style using scss and bootstrap_
 * _I would like to build out the app so it has areas or subcategories of focus_
 * _I would like to animate my pigeon logo_
 * _I would like to have a cool ninja pigeon welcome screen/animation while everything loads._
-* _I would like to include a few custom imoji 'likes' or 'splats'_
+* _I would like to include a few custom emoji 'likes' or 'splats'_
 
 
 #### To meet the stretch goals, I would need:
