@@ -1,3 +1,5 @@
+![Image of HiCoo](https://d30y9cdsu7xlg0.cloudfront.net/png/1112469-200.png)
+
 # Capstone-Proposal-2017-
 Capstone project proposal/blueprint, Epicodus 2017
 
