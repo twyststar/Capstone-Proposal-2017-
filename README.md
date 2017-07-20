@@ -59,4 +59,4 @@ _I plan to style using scss and bootstrap_
 #### So the day turns to nighttime
 #### Please approve my dream
 
-
+![Image of HiCoo](https://d30y9cdsu7xlg0.cloudfront.net/png/1112469-200.png)
