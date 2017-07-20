@@ -48,12 +48,13 @@ _ I plan to style using scss and bootstrap_
 * _I would like to build out the app so it has areas or subcategories of focus_
 * _I would like to animate my pigeon logo_
 * _I would like to have a cool ninja pigeon welcome screen/animation while everything loads._
-*_ I would like to include a few custom imoji 'likes'_
+* _I would like to include a few custom imoji 'likes' or 'splats'_
 
 
 #### To meet the stretch goals, I would need:
 
 * _A way to animate, and a tool to do so. Pehaps imbed a Unity element?_
+
 * _Time_ 
 
 #### As Loren reviews
